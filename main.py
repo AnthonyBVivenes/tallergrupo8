@@ -10,7 +10,7 @@ pygame.init()
 ANCHO, ALTO = 800, 700
 FPS = 60
 VENTANA = pygame.display.set_mode((ANCHO, ALTO))
-pygame.display.set_caption("Juego de Memoria")
+pygame.display.set_caption("Memory")
 
 
 BLANCO = (255, 255, 255)
